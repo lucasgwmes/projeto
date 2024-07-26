@@ -42,13 +42,15 @@ body * {
 
 
 #container{
-    width: 360px;
+   
+    width: 100%;
+    max-width:588px ;
     height: auto;
     margin: auto;
     justify-content: center;
 
    font-size: large;
-  padding-top: 56px ;
+  padding:32px  32px 32px 32px;
   
   
   /*profile*/
