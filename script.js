@@ -16,7 +16,7 @@ html.classList.toggle("light")
         img.setAttribute('alt', 'imagem do lucas com camiseta vermelha sorrindo')
    }
 
-
+  
    
 }
 
